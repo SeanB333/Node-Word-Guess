@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/SeanB333/Node-Word-Guess#readme",
   "dependencies": {
+    "inquirer": "^6.2.0",
     "random-words": "^1.1.0"
-  }
+  },
+  "devDependencies": {}
 }
